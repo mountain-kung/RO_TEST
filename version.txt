@@ -1,2 +1,2 @@
 Sdata.zip=1.0
-iteminfo_true.lub=1.2
+iteminfo_true.lub=1.3
