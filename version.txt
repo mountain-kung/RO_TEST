@@ -1,2 +1,3 @@
 Sdata.zip=1.1
 iteminfo_true.lub=1.4
+tipbox.lub=1.0
