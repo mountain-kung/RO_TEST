@@ -1,4 +1,4 @@
 weekly_data.txt=20250607
 Sdata.zip=1.3
-iteminfo_true.lub=3.3
+iteminfo_true.lub=3.4
 tipbox.lub=1.4
